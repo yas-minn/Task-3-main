@@ -1,0 +1,21 @@
+#SocialLinks{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+
+    
+}
+#SocialLinks button {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    
+}
