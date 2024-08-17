@@ -8,21 +8,15 @@ main{
 }
 @media only screen and (max-width: 600px){
     main {
-        width: 80%;
-        height: 650px;
-        background-color: hsl(0, 0%, 12%);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
+        width: 500px;
+        height: 700px;
+        
     }
 }
-@media only screen and (max-width: 750px){
+@media only screen and (max-width: 768px){
     main {
-        width: 50%;
-        height: 650px;
-        background-color: hsl(0, 0%, 12%);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
+        width: 500px;
+        height: 700px;
+        
     }
 }
