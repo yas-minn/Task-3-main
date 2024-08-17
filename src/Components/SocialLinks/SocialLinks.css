@@ -16,6 +16,8 @@
     color: white;
     font-size: 18px;
     font-weight: 700;
-    cursor: pointer;
-    
+    cursor: pointer;    
+}
+#SocialLinks button:hover{
+    background-color: greenyellow;
 }
